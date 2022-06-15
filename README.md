@@ -1,2 +1,2 @@
 # Landing-Page 
-Creating and designing an entire webpage using HTML, CSS and FLexbox.
+Creating and designing a Landing Page from scratch using HTML, CSS and Flexbox.
